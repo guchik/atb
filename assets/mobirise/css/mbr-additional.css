@@ -1376,12 +1376,12 @@ body {
 }
 .cid-qzO5OX7JoN .navbar {
   padding: .5rem 0;
-  background: #f19389;
+  background: #a0cad8;
   transition: none;
   min-height: 77px;
 }
 .cid-qzO5OX7JoN .navbar-dropdown.bg-color.transparent.opened {
-  background: #f19389;
+  background: #a0cad8;
 }
 .cid-qzO5OX7JoN a {
   font-style: normal;
@@ -1463,7 +1463,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qzO5OX7JoN .dropdown .dropdown-menu {
-  background: #f19389;
+  background: #a0cad8;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1747,7 +1747,7 @@ body {
   }
 }
 .cid-qVCuS1G5eI {
-  background-image: url("../../../assets/images/2-1500x660.jpg");
+  background-image: url("../../../assets/images/23-1500x660.jpg");
 }
 .cid-qVCuS1G5eI .form-container {
   transition: all .2s;
@@ -1761,6 +1761,13 @@ body {
   .cid-qVCuS1G5eI .content-container {
     padding-right: 5rem;
   }
+}
+.cid-qVCuS1G5eI SPAN {
+  color: #073b4c;
+}
+.cid-qVCuS1G5eI .mbr-text,
+.cid-qVCuS1G5eI .mbr-section-btn B {
+  color: #073b4c;
 }
 .cid-qWD3Jzukgj {
   padding-top: 60px;
@@ -1776,28 +1783,28 @@ body {
 }
 .cid-qWD3Jzukgj .nav-tabs .nav-link {
   box-sizing: border-box;
-  color: #767676;
+  color: #a0cad8;
   font-style: normal;
   font-weight: 500;
   border-radius: 3px;
-  border: 1px solid #767676;
+  border: 1px solid #a0cad8;
   padding: 1rem 3rem;
   margin: 0.4rem .8rem !important;
   transition: all .3s;
 }
 .cid-qWD3Jzukgj .nav-tabs .nav-link:hover {
-  background-color: #c1c1c1;
+  background-color: #a0cad8;
 }
 .cid-qWD3Jzukgj .nav-tabs .nav-link:focus {
   box-shadow: none;
-  background-color: #c1c1c1;
+  background-color: #a0cad8;
 }
 .cid-qWD3Jzukgj .nav-tabs .nav-link.active {
   font-weight: 500;
   color: #000000;
   font-style: normal;
   border: none;
-  background: #c1c1c1;
+  background: #a0cad8;
 }
 .cid-qWD3Jzukgj .nav-tabs .nav-link.active:hover {
   border: none;
@@ -1836,6 +1843,9 @@ body {
     padding-bottom: 0;
     padding-top: 2rem;
   }
+}
+.cid-qWD3Jzukgj P {
+  text-align: right;
 }
 .cid-qWbmCi843c {
   padding-top: 60px;
@@ -1945,7 +1955,7 @@ body {
 .cid-qWD5RFDA1V {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/22-1500x660.jpg");
+  background-image: url("../../../assets/images/33-1500x660.jpg");
 }
 @media (max-width: 767px) {
   .cid-qWD5RFDA1V .content {
